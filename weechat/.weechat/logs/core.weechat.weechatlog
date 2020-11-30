@@ -1,0 +1,449 @@
+2020-05-22 17:42:31		New key binding (context "default"): meta2-1;5P => /bar scroll buflist * -100%
+2020-05-22 17:42:31		New key binding (context "default"): meta2-1;5Q => /bar scroll buflist * +100%
+2020-05-22 17:42:31		New key binding (context "default"): meta-meta-OQ => /bar scroll buflist * e
+2020-05-22 17:42:31		New key binding (context "default"): meta2-1;3Q => /bar scroll buflist * e
+2020-05-22 17:42:31		New key binding (context "default"): meta2-1;3P => /bar scroll buflist * b
+2020-05-22 17:42:31		New key binding (context "default"): meta-meta-OP => /bar scroll buflist * b
+2020-05-22 17:42:31		New key binding (context "default"): meta-OQ => /bar scroll buflist * +100%
+2020-05-22 17:42:31		New key binding (context "default"): meta-OP => /bar scroll buflist * -100%
+2020-05-22 17:42:31		New key binding (context "default"): meta-meta2-12~ => /bar scroll buflist * e
+2020-05-22 17:42:31		New key binding (context "default"): meta-meta2-11~ => /bar scroll buflist * b
+2020-05-22 17:42:31		New key binding (context "default"): meta2-12^ => /bar scroll buflist * +100%
+2020-05-22 17:42:31		New key binding (context "default"): meta2-12~ => /bar scroll buflist * +100%
+2020-05-22 17:42:31		New key binding (context "default"): meta2-11^ => /bar scroll buflist * -100%
+2020-05-22 17:42:31		New key binding (context "default"): meta2-11~ => /bar scroll buflist * -100%
+2020-05-22 17:42:31		Plugins loaded: alias, buflist, charset, exec, fifo, fset, irc, logger, lua, perl, python, relay, ruby, script, spell, tcl, trigger, xfer
+2020-05-22 17:42:37		[core]
+2020-05-22 17:42:37		  away     debug    key      proxy    set      window 
+2020-05-22 17:42:37		  bar      eval     layout   quit     unset  
+2020-05-22 17:42:37		  buffer   filter   mouse    reload   upgrade
+2020-05-22 17:42:37		  color    help     mute     repeat   uptime 
+2020-05-22 17:42:37		  command  history  plugin   save     version
+2020-05-22 17:42:37		  cursor   input    print    secure   wait   
+2020-05-22 17:42:37		[relay]
+2020-05-22 17:42:37		  relay
+2020-05-22 17:42:37		[tcl]
+2020-05-22 17:42:37		  tcl
+2020-05-22 17:42:37		[xfer]
+2020-05-22 17:42:37		  me  xfer
+2020-05-22 17:42:37		[python]
+2020-05-22 17:42:37		  python
+2020-05-22 17:42:37		[charset]
+2020-05-22 17:42:37		  charset
+2020-05-22 17:42:37		[script]
+2020-05-22 17:42:37		  script
+2020-05-22 17:42:37		[buflist]
+2020-05-22 17:42:37		  buflist
+2020-05-22 17:42:37		[trigger]
+2020-05-22 17:42:37		  trigger
+2020-05-22 17:42:37		[fset]
+2020-05-22 17:42:37		  fset
+2020-05-22 17:42:37		[spell]
+2020-05-22 17:42:37		  spell
+2020-05-22 17:42:37		[fifo]
+2020-05-22 17:42:37		  fifo
+2020-05-22 17:42:37		[lua]
+2020-05-22 17:42:37		  lua
+2020-05-22 17:42:37		[alias]
+2020-05-22 17:42:37		  AAWAY    CHAT     K        N        UB       WII    
+2020-05-22 17:42:37		  alias    CL       KB       Q        UMODE    WM     
+2020-05-22 17:42:37		  ANICK    CLOSE    LEAVE    REDRAW   V        WW     
+2020-05-22 17:42:37		  BEEP     EXIT     M        SAY      W      
+2020-05-22 17:42:37		  BYE      IG       MSGBUF   SIGNOFF  WC     
+2020-05-22 17:42:37		  C        J        MUB      T        WI     
+2020-05-22 17:42:37		[irc]
+2020-05-22 17:42:37		  admin       ison        part        squit     
+2020-05-22 17:42:37		  allchan     join        ping        stats     
+2020-05-22 17:42:37		  allpv       kick        pong        summon    
+2020-05-22 17:42:37		  allserv     kickban     query       time      
+2020-05-22 17:42:37		  ban         kill        quiet       topic     
+2020-05-22 17:42:37		  cap         links       quote       trace     
+2020-05-22 17:42:37		  connect     list        reconnect   unban     
+2020-05-22 17:42:37		  ctcp        lusers      rehash      unquiet   
+2020-05-22 17:42:37		  cycle       map         remove      userhost  
+2020-05-22 17:42:37		  dcc         me          restart     users     
+2020-05-22 17:42:37		  dehalfop    mode        sajoin      version   
+2020-05-22 17:42:37		  deop        motd        samode      voice     
+2020-05-22 17:42:37		  devoice     msg         sanick      wallchops 
+2020-05-22 17:42:37		  die         names       sapart      wallops   
+2020-05-22 17:42:37		  disconnect  nick        saquit      who       
+2020-05-22 17:42:37		  halfop      notice      server      whois     
+2020-05-22 17:42:37		  ignore      notify      service     whowas    
+2020-05-22 17:42:37		  info        op          servlist  
+2020-05-22 17:42:37		  invite      oper        squery    
+2020-05-22 17:42:37		[perl]
+2020-05-22 17:42:37		  perl
+2020-05-22 17:42:37		[exec]
+2020-05-22 17:42:37		  exec
+2020-05-22 17:42:37		[logger]
+2020-05-22 17:42:37		  logger
+2020-05-22 17:42:37		[ruby]
+2020-05-22 17:42:37		  ruby
+2020-05-22 17:43:20	=!=	No help available, "keybindings" is not a command or an option
+2020-05-22 17:43:23	=!=	Error: unknown command "/keybindings" (type /help for help)
+2020-05-22 17:43:25		[core]
+2020-05-22 17:43:25		  away     debug    key      proxy    set      window 
+2020-05-22 17:43:25		  bar      eval     layout   quit     unset  
+2020-05-22 17:43:25		  buffer   filter   mouse    reload   upgrade
+2020-05-22 17:43:25		  color    help     mute     repeat   uptime 
+2020-05-22 17:43:25		  command  history  plugin   save     version
+2020-05-22 17:43:25		  cursor   input    print    secure   wait   
+2020-05-22 17:43:25		[relay]
+2020-05-22 17:43:25		  relay
+2020-05-22 17:43:25		[tcl]
+2020-05-22 17:43:25		  tcl
+2020-05-22 17:43:25		[xfer]
+2020-05-22 17:43:25		  me  xfer
+2020-05-22 17:43:25		[python]
+2020-05-22 17:43:25		  python
+2020-05-22 17:43:25		[charset]
+2020-05-22 17:43:25		  charset
+2020-05-22 17:43:25		[script]
+2020-05-22 17:43:25		  script
+2020-05-22 17:43:25		[buflist]
+2020-05-22 17:43:25		  buflist
+2020-05-22 17:43:25		[trigger]
+2020-05-22 17:43:25		  trigger
+2020-05-22 17:43:25		[fset]
+2020-05-22 17:43:25		  fset
+2020-05-22 17:43:25		[spell]
+2020-05-22 17:43:25		  spell
+2020-05-22 17:43:25		[fifo]
+2020-05-22 17:43:25		  fifo
+2020-05-22 17:43:25		[lua]
+2020-05-22 17:43:25		  lua
+2020-05-22 17:43:25		[alias]
+2020-05-22 17:43:25		  AAWAY    CHAT     K        N        UB       WII    
+2020-05-22 17:43:25		  alias    CL       KB       Q        UMODE    WM     
+2020-05-22 17:43:25		  ANICK    CLOSE    LEAVE    REDRAW   V        WW     
+2020-05-22 17:43:25		  BEEP     EXIT     M        SAY      W      
+2020-05-22 17:43:25		  BYE      IG       MSGBUF   SIGNOFF  WC     
+2020-05-22 17:43:25		  C        J        MUB      T        WI     
+2020-05-22 17:43:25		[irc]
+2020-05-22 17:43:25		  admin       ison        part        squit     
+2020-05-22 17:43:25		  allchan     join        ping        stats     
+2020-05-22 17:43:25		  allpv       kick        pong        summon    
+2020-05-22 17:43:25		  allserv     kickban     query       time      
+2020-05-22 17:43:25		  ban         kill        quiet       topic     
+2020-05-22 17:43:25		  cap         links       quote       trace     
+2020-05-22 17:43:25		  connect     list        reconnect   unban     
+2020-05-22 17:43:25		  ctcp        lusers      rehash      unquiet   
+2020-05-22 17:43:25		  cycle       map         remove      userhost  
+2020-05-22 17:43:25		  dcc         me          restart     users     
+2020-05-22 17:43:25		  dehalfop    mode        sajoin      version   
+2020-05-22 17:43:25		  deop        motd        samode      voice     
+2020-05-22 17:43:25		  devoice     msg         sanick      wallchops 
+2020-05-22 17:43:25		  die         names       sapart      wallops   
+2020-05-22 17:43:25		  disconnect  nick        saquit      who       
+2020-05-22 17:43:25		  halfop      notice      server      whois     
+2020-05-22 17:43:25		  ignore      notify      service     whowas    
+2020-05-22 17:43:25		  info        op          servlist  
+2020-05-22 17:43:25		  invite      oper        squery    
+2020-05-22 17:43:25		[perl]
+2020-05-22 17:43:25		  perl
+2020-05-22 17:43:25		[exec]
+2020-05-22 17:43:25		  exec
+2020-05-22 17:43:25		[logger]
+2020-05-22 17:43:25		  logger
+2020-05-22 17:43:25		[ruby]
+2020-05-22 17:43:25		  ruby
+2020-05-22 17:43:34		Plugins loaded:
+2020-05-22 17:43:34		  relay: Relay WeeChat data to remote application (irc/weechat protocols)
+2020-05-22 17:43:34		  tcl: Support of tcl scripts
+2020-05-22 17:43:34		  xfer: DCC file transfer and direct chat
+2020-05-22 17:43:34		  python: Support of python scripts
+2020-05-22 17:43:34		  charset: Charset conversions
+2020-05-22 17:43:34		  script: Script manager
+2020-05-22 17:43:34		  buflist: Buffers list
+2020-05-22 17:43:34		  trigger: Text replacement and command execution on events triggered by WeeChat/plugins
+2020-05-22 17:43:34		  fset: Fast set of WeeChat and plugins options
+2020-05-22 17:43:34		  spell: Spell checker for input
+2020-05-22 17:43:34		  fifo: FIFO pipe for remote control
+2020-05-22 17:43:34		  lua: Support of lua scripts
+2020-05-22 17:43:34		  alias: Alias commands
+2020-05-22 17:43:34		  irc: IRC (Internet Relay Chat) protocol
+2020-05-22 17:43:34		  perl: Support of perl scripts
+2020-05-22 17:43:34		  exec: Execution of external commands in WeeChat
+2020-05-22 17:43:34		  logger: Log buffers to files
+2020-05-22 17:43:34		  ruby: Support of ruby scripts
+2020-05-22 17:43:42		charset: terminal: UTF-8, internal: UTF-8
+2020-05-22 17:44:14	=!=	You can not write text in this buffer
+2020-05-22 17:47:04		Plugins loaded: alias, buflist, charset, exec, fifo, fset, irc, logger, lua, perl, python, relay, ruby, script, spell, tcl, trigger, xfer
+2020-05-22 17:47:08		Mouse enabled
+2020-05-22 17:47:12		[core]
+2020-05-22 17:47:12		  away     debug    key      proxy    set      window 
+2020-05-22 17:47:12		  bar      eval     layout   quit     unset  
+2020-05-22 17:47:12		  buffer   filter   mouse    reload   upgrade
+2020-05-22 17:47:12		  color    help     mute     repeat   uptime 
+2020-05-22 17:47:12		  command  history  plugin   save     version
+2020-05-22 17:47:12		  cursor   input    print    secure   wait   
+2020-05-22 17:47:12		[relay]
+2020-05-22 17:47:12		  relay
+2020-05-22 17:47:12		[tcl]
+2020-05-22 17:47:12		  tcl
+2020-05-22 17:47:12		[xfer]
+2020-05-22 17:47:12		  me  xfer
+2020-05-22 17:47:12		[python]
+2020-05-22 17:47:12		  python
+2020-05-22 17:47:12		[charset]
+2020-05-22 17:47:12		  charset
+2020-05-22 17:47:12		[script]
+2020-05-22 17:47:12		  script
+2020-05-22 17:47:12		[buflist]
+2020-05-22 17:47:12		  buflist
+2020-05-22 17:47:12		[trigger]
+2020-05-22 17:47:12		  trigger
+2020-05-22 17:47:12		[fset]
+2020-05-22 17:47:12		  fset
+2020-05-22 17:47:12		[spell]
+2020-05-22 17:47:12		  spell
+2020-05-22 17:47:12		[fifo]
+2020-05-22 17:47:12		  fifo
+2020-05-22 17:47:12		[lua]
+2020-05-22 17:47:12		  lua
+2020-05-22 17:47:12		[alias]
+2020-05-22 17:47:12		  AAWAY    CHAT     K        N        UB       WII    
+2020-05-22 17:47:12		  alias    CL       KB       Q        UMODE    WM     
+2020-05-22 17:47:12		  ANICK    CLOSE    LEAVE    REDRAW   V        WW     
+2020-05-22 17:47:12		  BEEP     EXIT     M        SAY      W      
+2020-05-22 17:47:12		  BYE      IG       MSGBUF   SIGNOFF  WC     
+2020-05-22 17:47:12		  C        J        MUB      T        WI     
+2020-05-22 17:47:12		[irc]
+2020-05-22 17:47:12		  admin       ison        part        squit     
+2020-05-22 17:47:12		  allchan     join        ping        stats     
+2020-05-22 17:47:12		  allpv       kick        pong        summon    
+2020-05-22 17:47:12		  allserv     kickban     query       time      
+2020-05-22 17:47:12		  ban         kill        quiet       topic     
+2020-05-22 17:47:12		  cap         links       quote       trace     
+2020-05-22 17:47:12		  connect     list        reconnect   unban     
+2020-05-22 17:47:12		  ctcp        lusers      rehash      unquiet   
+2020-05-22 17:47:12		  cycle       map         remove      userhost  
+2020-05-22 17:47:12		  dcc         me          restart     users     
+2020-05-22 17:47:12		  dehalfop    mode        sajoin      version   
+2020-05-22 17:47:12		  deop        motd        samode      voice     
+2020-05-22 17:47:12		  devoice     msg         sanick      wallchops 
+2020-05-22 17:47:12		  die         names       sapart      wallops   
+2020-05-22 17:47:12		  disconnect  nick        saquit      who       
+2020-05-22 17:47:12		  halfop      notice      server      whois     
+2020-05-22 17:47:12		  ignore      notify      service     whowas    
+2020-05-22 17:47:12		  info        op          servlist  
+2020-05-22 17:47:12		  invite      oper        squery    
+2020-05-22 17:47:12		[perl]
+2020-05-22 17:47:12		  perl
+2020-05-22 17:47:12		[exec]
+2020-05-22 17:47:12		  exec
+2020-05-22 17:47:12		[logger]
+2020-05-22 17:47:12		  logger
+2020-05-22 17:47:12		[ruby]
+2020-05-22 17:47:12		  ruby
+2020-05-22 17:52:06	=!=	irc: unable to add temporary server "freenode" because the addition of temporary servers with command /connect is currently disabled
+2020-05-22 17:52:06	=!=	irc: if you want to add a standard server, use the command "/server add" (see /help server); if you really want to add a temporary server (NOT SAVED), turn on the option irc.look.temporary_servers
+2020-05-22 17:53:23		script: downloading list of scripts...
+2020-05-22 17:53:24		script: 364 scripts for WeeChat 2.8
+2020-05-22 17:53:25		python: loading script "/Users/drew/.weechat/python/buffer_autoclose.py"
+2020-05-22 17:53:25		python: registered script "buffer_autoclose", version 0.5 (Automatically close inactive private message buffers)
+2020-05-22 17:53:26		python: loading script "/Users/drew/.weechat/python/go.py"
+2020-05-22 17:53:26		python: registered script "go", version 2.6 (Quick jump to buffers)
+2020-05-22 17:53:27		python: loading script "/Users/drew/.weechat/python/colorize_nicks.py"
+2020-05-22 17:53:27		python: registered script "colorize_nicks", version 27 (Use the weechat nick colors in the chat area)
+2020-05-22 17:53:40		python: loading script "/Users/drew/.weechat/python/autosort.py"
+2020-05-22 17:53:40		python: registered script "autosort", version 3.8 (Flexible automatic (or manual) buffer sorting based on eval expressions.)
+2020-05-22 17:54:00		Option changed: weechat.bar.status.color_bg = 0  (default: blue)
+2020-05-22 17:54:11		Option changed: weechat.bar.title.color_bg = 0  (default: blue)
+2020-05-22 17:54:14		Option changed: weechat.bar.title.color_bg = 1  (default: blue)
+2020-05-22 17:54:16		Option changed: weechat.bar.title.color_bg = 0  (default: blue)
+2020-05-22 17:54:27		Option changed: weechat.color.chat_nick_colors = "1,2,3,4,5,6"  (default: "cyan,magenta,green,brown,lightblue,default,lightcyan,lightmagenta,lightgreen,blue")
+2020-05-22 17:54:41		Option changed: weechat.color.chat_highlight = 7  (default: yellow)
+2020-05-22 17:55:35		Option changed: weechat.bar.buflist.position = top  (default: left)
+2020-05-22 17:55:44		Option changed: weechat.bar.buflist.items = "buflist"  (default: "")
+2020-05-22 17:56:44	=!=	Error: option "buffers.color.current_bg" not found
+2020-05-22 17:57:11		Plugins loaded:
+2020-05-22 17:57:11		  relay: Relay WeeChat data to remote application (irc/weechat protocols)
+2020-05-22 17:57:11		  tcl: Support of tcl scripts
+2020-05-22 17:57:11		  xfer: DCC file transfer and direct chat
+2020-05-22 17:57:11		  python: Support of python scripts
+2020-05-22 17:57:11		  charset: Charset conversions
+2020-05-22 17:57:11		  script: Script manager
+2020-05-22 17:57:11		  buflist: Buffers list
+2020-05-22 17:57:11		  trigger: Text replacement and command execution on events triggered by WeeChat/plugins
+2020-05-22 17:57:11		  fset: Fast set of WeeChat and plugins options
+2020-05-22 17:57:11		  spell: Spell checker for input
+2020-05-22 17:57:11		  fifo: FIFO pipe for remote control
+2020-05-22 17:57:11		  lua: Support of lua scripts
+2020-05-22 17:57:11		  alias: Alias commands
+2020-05-22 17:57:11		  irc: IRC (Internet Relay Chat) protocol
+2020-05-22 17:57:11		  perl: Support of perl scripts
+2020-05-22 17:57:11		  exec: Execution of external commands in WeeChat
+2020-05-22 17:57:11		  logger: Log buffers to files
+2020-05-22 17:57:11		  ruby: Support of ruby scripts
+2020-05-22 17:57:58		python scripts loaded: autosort, buffer_autoclose, colorize_nicks, go
+2020-05-22 17:57:58		script: 364 scripts for WeeChat 2.8
+2020-05-22 17:57:58		Plugins loaded: alias, buflist, charset, exec, fifo, fset, irc, logger, lua, perl, python, relay, ruby, script, spell, tcl, trigger, xfer
+2020-05-22 17:58:47		Option changed: buflist.format.hotlist_message = "${color:7}"  (default: "${color:brown}")
+2020-05-22 17:59:13		Option changed: buflist.format.buffer_current = "${color:,7}${format_buffer}"  (default: "${color:,blue}${format_buffer}")
+2020-05-22 17:59:44		autosort: Sorting rules:
+2020-05-22 17:59:44		    0: ${core_first}
+2020-05-22 17:59:44		    1: ${info:autosort_order,${info:autosort_escape,${script_or_plugin}},core,*,irc,bitlbee,matrix,slack}
+2020-05-22 17:59:44		    2: ${script_or_plugin}
+2020-05-22 17:59:44		    3: ${irc_raw_first}
+2020-05-22 17:59:44		    4: ${server}
+2020-05-22 17:59:44		    5: ${info:autosort_order,${type},server,*,channel,private}
+2020-05-22 17:59:44		    6: ${hashless_name}
+2020-05-22 17:59:44		    7: ${buffer.full_name}
+2020-05-22 18:03:37		python scripts loaded: autosort, buffer_autoclose, colorize_nicks, go
+2020-05-22 18:03:37		script: 364 scripts for WeeChat 2.8
+2020-05-22 18:03:37		Plugins loaded: alias, buflist, charset, exec, fifo, fset, irc, logger, lua, perl, python, relay, ruby, script, spell, tcl, trigger, xfer
+2020-05-22 18:04:05		Option changed: weechat.color.chat_nick_colors = "red,lightred,162,167,204,green,lightgreen,035,042,047,084,120,154,148,yellow,brown,165,191,222,208,cyan,045,051,087,117,123,159,lightmagenta,128,171,176,213,111,148"  (default: "cyan,magenta,green,brown,lightblue,default,lightcyan,lightmagenta,lightgreen,blue")
+2020-05-22 18:04:16	=!=	Error: unknown command "/servers" (type /help for help)
+2020-05-22 18:04:18		No server
+2020-05-22 18:04:20		[core]
+2020-05-22 18:04:20		  away     cursor   history  mute     reload   unset    window 
+2020-05-22 18:04:20		  bar      debug    input    plugin   repeat   upgrade
+2020-05-22 18:04:20		  buffer   eval     key      print    save     uptime 
+2020-05-22 18:04:20		  color    filter   layout   proxy    secure   version
+2020-05-22 18:04:20		  command  help     mouse    quit     set      wait   
+2020-05-22 18:04:20		[relay]
+2020-05-22 18:04:20		  relay
+2020-05-22 18:04:20		[tcl]
+2020-05-22 18:04:20		  tcl
+2020-05-22 18:04:20		[xfer]
+2020-05-22 18:04:20		  me  xfer
+2020-05-22 18:04:20		[python]
+2020-05-22 18:04:20		  autosort  go  python
+2020-05-22 18:04:20		[charset]
+2020-05-22 18:04:20		  charset
+2020-05-22 18:04:20		[script]
+2020-05-22 18:04:20		  script
+2020-05-22 18:04:20		[buflist]
+2020-05-22 18:04:20		  buflist
+2020-05-22 18:04:20		[trigger]
+2020-05-22 18:04:20		  trigger
+2020-05-22 18:04:20		[fset]
+2020-05-22 18:04:20		  fset
+2020-05-22 18:04:20		[spell]
+2020-05-22 18:04:20		  spell
+2020-05-22 18:04:20		[fifo]
+2020-05-22 18:04:20		  fifo
+2020-05-22 18:04:20		[lua]
+2020-05-22 18:04:20		  lua
+2020-05-22 18:04:20		[alias]
+2020-05-22 18:04:20		  AAWAY    C        IG       M        REDRAW   UMODE    WII    
+2020-05-22 18:04:20		  alias    CHAT     J        MSGBUF   SAY      V        WM     
+2020-05-22 18:04:20		  ANICK    CL       K        MUB      SIGNOFF  W        WW     
+2020-05-22 18:04:20		  BEEP     CLOSE    KB       N        T        WC     
+2020-05-22 18:04:20		  BYE      EXIT     LEAVE    Q        UB       WI     
+2020-05-22 18:04:20		[irc]
+2020-05-22 18:04:20		  admin       halfop      motd        rehash      time      
+2020-05-22 18:04:20		  allchan     ignore      msg         remove      topic     
+2020-05-22 18:04:20		  allpv       info        names       restart     trace     
+2020-05-22 18:04:20		  allserv     invite      nick        sajoin      unban     
+2020-05-22 18:04:20		  ban         ison        notice      samode      unquiet   
+2020-05-22 18:04:20		  cap         join        notify      sanick      userhost  
+2020-05-22 18:04:20		  connect     kick        op          sapart      users     
+2020-05-22 18:04:20		  ctcp        kickban     oper        saquit      version   
+2020-05-22 18:04:20		  cycle       kill        part        server      voice     
+2020-05-22 18:04:20		  dcc         links       ping        service     wallchops 
+2020-05-22 18:04:20		  dehalfop    list        pong        servlist    wallops   
+2020-05-22 18:04:20		  deop        lusers      query       squery      who       
+2020-05-22 18:04:20		  devoice     map         quiet       squit       whois     
+2020-05-22 18:04:20		  die         me          quote       stats       whowas    
+2020-05-22 18:04:20		  disconnect  mode        reconnect   summon    
+2020-05-22 18:04:20		[perl]
+2020-05-22 18:04:20		  perl
+2020-05-22 18:04:20		[exec]
+2020-05-22 18:04:20		  exec
+2020-05-22 18:04:20		[logger]
+2020-05-22 18:04:20		  logger
+2020-05-22 18:04:20		[ruby]
+2020-05-22 18:04:20		  ruby
+2020-05-22 18:04:57	=!=	Error: unknown command "/clear" (type /help for help)
+2020-05-22 18:05:50		Option changed: logger.file.auto_log = off  (default: on)
+2020-05-22 18:06:21		New key binding (context "default"): meta-g => /go
+2020-05-22 18:06:48		Key "meta-n" unbound (context: "default")
+2020-05-22 18:06:48		New key binding (context "default"): meta-n => /bar toggle nicklist
+2020-05-22 18:10:50		Option changed: weechat.look.buffer_time_format = "${color:253}%H:${color:245}%M:%S"  (default: "%H:%M:%S")
+2020-05-22 18:11:37		Mouse disabled
+2020-05-22 18:11:41		0 new keys added (context: "default")
+2020-05-22 18:11:41		0 new keys added (context: "search")
+2020-05-22 18:11:41		0 new keys added (context: "cursor")
+2020-05-22 18:11:41		0 new keys added (context: "mouse")
+2020-05-22 18:11:49		Option changed: weechat.look.mouse = on  (default: off)
+2020-05-22 18:11:56		Mouse enabled
+2020-05-22 18:12:37		Option changed: weechat.look.buffer_time_format = "${color:252}%H:${color:245}%M:${color:240}%S"  (default: "%H:%M:%S")
+2020-05-22 18:15:04		Option changed: weechat.look.bar_more_down = "▼"  (default: "++")
+2020-05-22 18:15:11		Option changed: weechat.look.bar_more_left = "◀"  (default: "<<")
+2020-05-22 18:15:18		Option changed: weechat.look.bar_more_right = "▶"  (default: ">>")
+2020-05-22 18:15:26		Option changed: weechat.look.bar_more_up = "▲"  (default: "--")
+2020-05-22 18:16:14		Option changed: weechat.look.prefix_network = "ℹ "  (default: "--")
+2020-05-22 18:16:34	=!=	Error: option "weechat.look.pefix_network" not found
+2020-05-22 18:16:43		Option changed: weechat.look.prefix_network = "--"
+2020-05-22 18:17:39		Option changed: weechat.look.prefix_suffix = "│"  (default: "|")
+2020-05-22 18:18:55		Notify changed for "core.weechat": "all" to "message"
+2020-05-22 18:18:55		Option changed: weechat.look.buffer_notify_default = message  (default: all)
+2020-05-22 18:19:01		Option changed: irc.look.smart_filter = on
+2020-05-22 18:19:14		Filter "irc_smart" added:
+2020-05-22 18:19:14		  [irc_smart] buffer: * / tags: irc_smart_filter / regex: * 
+2020-05-22 18:19:39		Filter "irc_join_names" added:
+2020-05-22 18:19:39		  [irc_join_names] buffer: * / tags: irc_366,irc_332,irc_333,irc_329,irc_324 / regex: * 
+2020-05-22 18:21:07		Option changed: irc.look.server_buffer = independent  (default: merge_with_core)
+2020-05-22 18:21:23		autosort: Sorting rules:
+2020-05-22 18:21:23		    0: ${core_first}
+2020-05-22 18:21:23		    1: ${info:autosort_order,${info:autosort_escape,${script_or_plugin}},core,*,irc,bitlbee,matrix,slack}
+2020-05-22 18:21:23		    2: ${script_or_plugin}
+2020-05-22 18:21:23		    3: ${irc_raw_first}
+2020-05-22 18:21:23		    4: ${server}
+2020-05-22 18:21:23		    5: ${info:autosort_order,${type},server,*,channel,private}
+2020-05-22 18:21:23		    6: ${hashless_name}
+2020-05-22 18:21:23		    7: ${buffer.full_name}
+2020-05-22 18:21:23		    8: irc.server.*.&* = 0
+2020-05-22 18:21:35		autosort: Sorting rules:
+2020-05-22 18:21:35		    0: ${core_first}
+2020-05-22 18:21:35		    1: ${info:autosort_order,${info:autosort_escape,${script_or_plugin}},core,*,irc,bitlbee,matrix,slack}
+2020-05-22 18:21:35		    2: ${script_or_plugin}
+2020-05-22 18:21:35		    3: ${irc_raw_first}
+2020-05-22 18:21:35		    4: ${server}
+2020-05-22 18:21:35		    5: ${info:autosort_order,${type},server,*,channel,private}
+2020-05-22 18:21:35		    6: ${hashless_name}
+2020-05-22 18:21:35		    7: ${buffer.full_name}
+2020-05-22 18:21:35		    8: irc.server.*.&* = 0
+2020-05-22 18:21:35		    9: irc.server.*.#* = 1
+2020-05-22 18:22:11		autosort: Sorting rules:
+2020-05-22 18:22:11		    0: ${core_first}
+2020-05-22 18:22:11		    1: ${info:autosort_order,${info:autosort_escape,${script_or_plugin}},core,*,irc,bitlbee,matrix,slack}
+2020-05-22 18:22:11		    2: ${script_or_plugin}
+2020-05-22 18:22:11		    3: ${irc_raw_first}
+2020-05-22 18:22:11		    4: ${server}
+2020-05-22 18:22:11		    5: ${info:autosort_order,${type},server,*,channel,private}
+2020-05-22 18:22:11		    6: ${hashless_name}
+2020-05-22 18:22:11		    7: ${buffer.full_name}
+2020-05-22 18:22:11		    8: irc.server.*.&* = 0
+2020-05-22 18:22:11		    9: irc.server.*.#* = 1
+2020-05-22 18:22:11		    10: irc.server.*.\*status = 2
+2020-05-22 18:22:50		Option changed: weechat.look.hotlist_add_conditions = "${away} || ${buffer} != ${window.buffer}"  (default: "${away} || ${buffer.num_displayed} == 0 || ${info:relay_client_count,weechat,connected} > 0")
+2020-05-22 18:25:13		Plugins loaded:
+2020-05-22 18:25:13		  relay: Relay WeeChat data to remote application (irc/weechat protocols)
+2020-05-22 18:25:13		  tcl: Support of tcl scripts
+2020-05-22 18:25:13		  xfer: DCC file transfer and direct chat
+2020-05-22 18:25:13		  python: Support of python scripts
+2020-05-22 18:25:13		  charset: Charset conversions
+2020-05-22 18:25:13		  script: Script manager
+2020-05-22 18:25:13		  buflist: Buffers list
+2020-05-22 18:25:13		  trigger: Text replacement and command execution on events triggered by WeeChat/plugins
+2020-05-22 18:25:13		  fset: Fast set of WeeChat and plugins options
+2020-05-22 18:25:13		  spell: Spell checker for input
+2020-05-22 18:25:13		  fifo: FIFO pipe for remote control
+2020-05-22 18:25:13		  lua: Support of lua scripts
+2020-05-22 18:25:13		  alias: Alias commands
+2020-05-22 18:25:13		  irc: IRC (Internet Relay Chat) protocol
+2020-05-22 18:25:13		  perl: Support of perl scripts
+2020-05-22 18:25:13		  exec: Execution of external commands in WeeChat
+2020-05-22 18:25:13		  logger: Log buffers to files
+2020-05-22 18:25:13		  ruby: Support of ruby scripts
+2020-05-22 18:25:23		Scripts loaded:
+2020-05-22 18:25:23		 * ia   autosort.py 3.8 (Flexible automatic (or manual) buffer sorting based on eval expressions.)
+2020-05-22 18:25:23		   ia   buffer_autoclose.py 0.5 (Automatically close inactive private message buffers)
+2020-05-22 18:25:23		 * ia   colorize_nicks.py 27 (Use the weechat nick colors in the chat area)
+2020-05-22 18:25:23		 * ia   go.py 2.6 (Quick jump to buffers)
+2020-05-22 18:25:49		python: loading script "/Users/drew/.weechat/python/zerotab.py"
+2020-05-22 18:25:49		python: registered script "zerotab", version 1.5 (Will tab complete the last nick in channel without typing anything first. This is good for rapid conversations.)
+2020-05-22 18:28:31	=!=	You can not write text in this buffer
