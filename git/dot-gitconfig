@@ -20,3 +20,5 @@
     email = 75225753+bol0gna@users.noreply.github.com
 [includeIf "gitdir:~/sdev/"]
     path = ~/sdev/.gitconfig
+[credential]
+	helper = osxkeychain
