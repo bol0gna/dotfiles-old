@@ -23,3 +23,5 @@ export LSCOLORS=gxfxbEaEBxxEhEhBaDaCaD
 
 # prompt
 source ~/.bash_prompt
+
+source ~/.bash_secrets
