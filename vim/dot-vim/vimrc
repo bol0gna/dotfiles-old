@@ -6,7 +6,9 @@ endif
 " Get the defaults that most users want.
 " source $VIMRUNTIME/defaults.vim
 
-set nocompatible
+if &compatible
+    set nocompatible
+endif
 set encoding=utf-8
 set ttyfast
 set lazyredraw
@@ -43,5 +45,12 @@ set backupdir=/tmp//
 set undodir=/tmp//
 set directory=/tmp//
 
-" colorscheme solarized
-" set background=dark
+if has('termguicolors')
+    set termguicolors
+endif
+set background=dark
+let g:gruvbox_material_background='medium'
+" let g:gruvbox_material_enable_italic=0
+" let g:gruvbox_material_disable_italic_comment=1
+" let g:gruvbox_material_transparent_background=1
+colorscheme gruvbox-material
