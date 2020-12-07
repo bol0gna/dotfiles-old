@@ -15,8 +15,8 @@ alias actmon='open -a "Activity Monitor"'
 
 # colors
 export CLICOLOR=1
-export LSCOLORS=gxfxbEaEBxxEhEhBaDaCaD
-# export LSCOLORS=exfxfeaeBxxehehbadacea
+# export LSCOLORS=gxBxhxDxfxhxhxhxhxcxcx
+export LSCOLORS=exfxcxdxbxegedabagacad
 
 # Bash completion
 [[ -r "${BREW_PREFIX_ROOT}/etc/profile.d/bash_completion.sh" ]] && source "${BREW_PREFIX_ROOT}/etc/profile.d/bash_completion.sh"
