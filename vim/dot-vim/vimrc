@@ -1,13 +1,5 @@
-" When started as "evim", evim.vim will already have done these settings.
-if v:progname =~? "evim"
-  finish
-endif
-
-" Get the defaults that most users want.
-" source $VIMRUNTIME/defaults.vim
-
 if &compatible
-    set nocompatible
+	set nocompatible
 endif
 set encoding=utf-8
 set mouse=i
@@ -16,13 +8,14 @@ set lazyredraw
 syntax on
 filetype plugin indent on
 set clipboard=unnamedplus
+set autoread
 set ruler
 set number
 " set relativenumber
 " augroup numbertoggle
-"    autocmd!
-"    autocmd BufEnter,FocusGained,InsertLeave * set relativenumber
-"    autocmd BufLeave,FocusLost,InsertEnter   * set norelativenumber
+"	autocmd!
+"	autocmd BufEnter,FocusGained,InsertLeave * set relativenumber
+"	autocmd BufLeave,FocusLost,InsertEnter   * set norelativenumber
 " augroup END
 set showmode
 set laststatus=2
@@ -31,10 +24,12 @@ set showcmd
 set wildmenu
 
 set backspace=indent,eol,start
-set expandtab
+set smarttab
 set tabstop=4
 set shiftwidth=4
-set softtabstop=4
+set softtabstop=0
+set autoindent
+set formatoptions+=j
 
 set ignorecase
 set smartcase
@@ -47,7 +42,7 @@ set undodir=/tmp//
 set directory=/tmp//
 
 if has('termguicolors')
-    set termguicolors
+	set termguicolors
 endif
 set background=dark
 let g:gruvbox_material_background='medium'
