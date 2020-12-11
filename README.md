@@ -13,6 +13,7 @@ Currently very barebones but I'm hoping to expand it as I change settings around
   - [ ] One-time setup options like Mac OS defaults
   - [ ] Install Homebrew formulae and casks
   - [ ] Full setup covering all necessary config at once?
+  - [ ] Find existing solution instead of own script?
 - [x] bash profile
 - [x] inputrc
 - [ ] git config (separate my name/email from the rest of the settings)
@@ -21,7 +22,7 @@ Currently very barebones but I'm hoping to expand it as I change settings around
 - [x] vim
 - [ ] Brewfile
 - [ ] .macos style defaults
-- [ ] iTerm 2 settings
+- [X] iTerm 2 settings
 - [ ] Sublime Text settings
 
 ### Acknowledgements
