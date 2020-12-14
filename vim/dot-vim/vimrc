@@ -7,7 +7,7 @@ set ttyfast
 set lazyredraw
 syntax on
 filetype plugin indent on
-set clipboard=unnamedplus
+set clipboard=unnamed
 set autoread
 set ruler
 set number
