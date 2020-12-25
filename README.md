@@ -20,7 +20,7 @@ Currently very barebones but I'm hoping to expand it as I change settings around
 - [x] global .gitignore
 - [x] tmux
 - [x] vim
-- [ ] Brewfile
+- [x] Brewfile
 - [ ] .macos style defaults
 - [X] iTerm 2 settings
 - [ ] Sublime Text settings
