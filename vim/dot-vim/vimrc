@@ -24,6 +24,7 @@ set laststatus=2
 set modelines=0
 set showcmd
 set wildmenu
+set scrolloff=3
 
 set backspace=indent,eol,start
 set smarttab
