@@ -2,7 +2,7 @@
 
 Collection of various dotfiles to be deployed as [symlinks in the home directory](http://brandon.invergo.net/news/2012-05-26-using-gnu-stow-to-manage-your-dotfiles.html) using `stow` upon installation. Files are organized into directories for each program and named `dot-*` for visibility (`stow --dotfiles [dir]` replaces `dot-` with `.`). Requires GNU stow version 2.3.0 or higher.
 
-Currently very barebones but I'm hoping to expand it as I change settings around and figure out what I like.
+Currently very barebones but I'm hoping to expand it as I change settings around and figure out what I like. Maybe.
 
 ### Future plans
 
