@@ -4,15 +4,6 @@
 BREW_PREFIX_ROOT=/usr/local # $(brew --prefix)
 export HOMEBREW_NO_ANALYTICS=1
 
-# pyenv
-export PYENV_ROOT="$HOME/.pyenv"
-export PATH="$PYENV_ROOT/bin:$PATH"
-eval "$(pyenv init --path)"
-
-# pipx
-export PATH="$PATH:/Users/drew/.local/bin"
-eval "$(register-python-argcomplete pipx)"
-
 # aliases
 alias actmon='open -a "Activity Monitor"'
 
