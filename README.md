@@ -27,3 +27,5 @@ Currently very barebones but I'm hoping to expand it as I change settings around
 
 ### Acknowledgements
 I borrowed some things from the internet like [.bash\_prompt](https://github.com/mathiasbynens/dotfiles) and the `stow` idea mentioned earlier.
+
+[plugin organization](https://shapeshed.com/vim-packages/)
